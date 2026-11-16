@@ -11,8 +11,10 @@
 - Cada issue contiene prioridad MoSCoW, puntos, criterios de aceptación y responsable propuesto.
 - Todos los issues permanecen abiertos hasta verificar su realización.
 
-## Tablero visual (todavía por crear)
-En GitHub, **Perfil → Projects → New project → Board**. Nombre: **Digital SL DAM — Scrum L7**. Columnas mínimas: **Product Backlog**, **Sprint Backlog (To do)**, **Doing**, **Done**. Importar los 12 issues y mover solo los completados a Done.
+## Tablero visual de GitHub Projects
+[Acceder al tablero Digital SL DAM — Scrum L7](https://github.com/users/SergioSalido/projects/3/views/1?layout_template=board)
+
+**Pendiente de configurar/comprobar:** columnas mínimas **Product Backlog**, **Sprint Backlog (To do)**, **Doing**, **Done** y añadir los 12 issues existentes al proyecto. Mover a Done solo los efectivamente terminados. El enlace fue proporcionado por el equipo; la integración de issues al tablero no se ha verificado.
 
 ## Documentación exigida
 - **Anexo A:** constitución, casos, roles, herramienta y enlace, Definition of Done, acuerdos, firmas.
